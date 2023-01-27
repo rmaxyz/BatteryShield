@@ -1,0 +1,5 @@
+BatteryShield KEYWORD1
+begin KEYWORD2
+getVoltage KEYWORD2
+isCharging KEYWORD2
+isFull KEYWORD2
